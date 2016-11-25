@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Battle" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAACAAQCADAAAAAAAAACAAAAABAACAAA=</HashCode>
+      <FileName>E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\Battle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cruiser" Collapsed="true">
+    <Position X="7.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAABAAAABAAAACAAIAABAAAAAA=</HashCode>
+      <FileName>E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\Cruiser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ship" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAUEAAIIgAAIAACAAAAAAAAAAUaEBACAAEAUDGAAIAA=</HashCode>
+      <FileName>E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\Ship.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Corvette" Collapsed="true">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAACAAAAAAAAAAAAAAACAAAACAAAAAAA=</HashCode>
+      <FileName>E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\Corvette.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repair" Collapsed="true">
+    <Position X="1.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAACAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\Repair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Alignment" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAIAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\Ship.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

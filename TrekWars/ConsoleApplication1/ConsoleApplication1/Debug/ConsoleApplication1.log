@@ -1,0 +1,17 @@
+﻿Build started 11/15/2016 10:36:36 PM.
+     1>Project "E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\stdafx.cpp ..\..\TrekWars.cpp
+         TrekWars.cpp
+         stdafx.cpp
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\TrekWars.obj
+     1>TrekWars.obj : error LNK2019: unresolved external symbol "public: __thiscall Battle::Battle(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int,enum Alignment)" (??0Battle@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@HHW4Alignment@@@Z) referenced in function _main
+     1>E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1 unresolved externals
+     1>Done Building Project "E:\CIS200-Fall2016-aalrikabi\Project 3_rev1\header only\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:04.53
